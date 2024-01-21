@@ -1,7 +1,7 @@
 "# unit_test" 
 ### Install jest
 ```bash
-npm install --save-dev typescript jest ts-jest @types/jest
+npm install typescript jest ts-jest @types/jest
 ```
 
 ### Run Test
